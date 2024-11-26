@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Dmitry Kopievsky
+	email = 189521367+kpvskd@users.noreply.github.com
+[commit]
+	gpgsign = true
