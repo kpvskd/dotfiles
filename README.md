@@ -60,3 +60,6 @@ The configuration files includes configuring [Zsh](https://www.zsh.org/) shells,
     ssh-add ~/.ssh/id_ed25519
     ssh -T git@github.com
     ```
+9. Install fonts:
+    - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+    - [NerdFontsSymbolsOnly Mono](https://github.com/ryanoasis/nerd-fonts)
