@@ -64,13 +64,13 @@ The configuration files includes configuring Zsh shells, iTerm2, Neovim and Zed 
     touch .hushlogin
     ```
 8. Setup Git and GitHub:
-[!NOTE]
-If you don't already have an SSH key, you must generate a new SSH key to use for authentication
+     
+   > *If you don't already have an SSH key, you must [generate a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [add the public key to your GitHub account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to use for authentication*
     ```sh
     eval "$(ssh-agent -s)"
     ssh-add ~/.ssh/id_ed25519
     ssh -T git@github.com
     ```
-9. Install fonts:
+10. Install fonts:
     - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
     - [NerdFontsSymbolsOnly Mono](https://github.com/ryanoasis/nerd-fonts)
