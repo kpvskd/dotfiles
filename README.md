@@ -1,5 +1,10 @@
 # Development Environment Setup
 
+##Table of Contents
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Setup](#setup)
+
 ## Overview
 The configuration files includes configuring Zsh shells, iTerm2, Neovim and Zed editors. This guide will help you replicate my development environment on your machine.
 
