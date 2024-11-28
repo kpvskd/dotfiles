@@ -64,8 +64,8 @@ The configuration files includes configuring Zsh shells, iTerm2, Neovim and Zed 
     touch .hushlogin
     ```
 8. Setup Git and GitHub:
-    [!NOTE]
-    If you don't already have an SSH key, you must generate a new SSH key to use for authentication
+[!NOTE]
+If you don't already have an SSH key, you must generate a new SSH key to use for authentication
     ```sh
     eval "$(ssh-agent -s)"
     ssh-add ~/.ssh/id_ed25519
