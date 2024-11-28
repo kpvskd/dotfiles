@@ -1,5 +1,7 @@
 # Development Environment Setup
 
+![screenshot](image.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Requirements](#requirements)
