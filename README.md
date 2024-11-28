@@ -1,7 +1,7 @@
 # Development Environment Setup
 
 ## Overview
-The configuration files includes configuring [Zsh](https://www.zsh.org/) shells, [iTerm2](https://iterm2.com/index.html) [Neovim](https://neovim.io/) and [Zed](https://zed.dev/) editors. This guide will help you replicate my development environment on your machine.
+The configuration files includes configuring [Zsh](https://www.zsh.org/) shells, [iTerm2](https://iterm2.com/index.html), [Neovim](https://neovim.io/) and [Zed](https://zed.dev/) editors. This guide will help you replicate my development environment on your machine.
 
 ## Requirements
 - MacOS
