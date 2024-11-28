@@ -1,17 +1,12 @@
 # Development Environment Setup
 
-## Table of Contents
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Setup](#setup)
-
 ## Overview
-The configuration files includes configuring Zsh shells, Neovim and Zed Editor. This guide will help you replicate my development environment on your machine.
+The configuration files includes configuring [Zsh](https://www.zsh.org/) shells, [Neovim](https://neovim.io/) and [Zed](https://zed.dev/) editor. This guide will help you replicate my development environment on your machine.
 
 ## Requirements
-- macOS
-- git
-- stow
+- MacOS
+- [Git](https://git-scm.com/)
+- [GNU Stow](https://www.gnu.org/software/stow/)
 
 ## Setup
 1. Download the dotfiles on your computer:
