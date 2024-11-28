@@ -53,6 +53,7 @@ The configuration files includes configuring Zsh shells, iTerm2, Neovim and Zed 
     stow git
     stow zsh
     stow p10k
+    stow iterm2
     stow nvim
     stow zed
     ```
