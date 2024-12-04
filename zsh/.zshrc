@@ -5,9 +5,13 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+# Homebrew
 if [[ -f "/opt/homebrew/bin/brew" ]] then
   eval "$(/opt/homebrew/bin/brew shellenv)"
 fi
+
+# Fast Node Manager (fnm)
+eval "$(fnm env --use-on-cd --shell zsh)"
 
 # Enable plugins
 source "$(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme"
